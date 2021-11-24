@@ -8,7 +8,7 @@
 ## CentOS Files
 .zshrc_cent uses a modified minimal.zsh-theme because p10k requires minimum zsh version
 
-.hep.zsh-theme is the modified zsh-theme
+emu.zsh-theme is the modified minimal zsh-theme
 
 
 ## emacs files
