@@ -11,7 +11,14 @@
 .hep.zsh-theme is the modified zsh-theme
 
 
+## emacs files
+.emacs_macos is the standard emacs config file i have
+
 ## Dependencies
+
+### emacs theme
+Atom One for Emacs
+
 ### zsh plugin manager
 oh-my-zsh
 
